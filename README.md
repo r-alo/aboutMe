@@ -1,3 +1,3 @@
 About me for professional services
 
-![bio](/git/bio.md)
+[link](./git/bio.md)

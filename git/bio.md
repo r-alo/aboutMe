@@ -1,6 +1,6 @@
 # Kevin Ramírez 
-I'm Guadalajara, Jalisco, Mexico
+I'm from Guadalajara, Jalisco, Mexico
 
-![Kevin](/git/NevRalo.JPG)
+![Kevin](./NevRalo.JPG)
 
-I like festivals, videogames, rugby and mezcal.
+I like festivals, videogames, rugby and mezcal
